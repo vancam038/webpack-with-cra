@@ -5,4 +5,4 @@ Using npm run eject to enable webpack config.
 
 Config webpack aliases.
 
-Create jsonconfig.jsson file to prevent webpack aliases bugging VSCode's Go To Definition.
+Create jsonconfig.json file to prevent webpack aliases bugging VSCode's Go To Definition.
